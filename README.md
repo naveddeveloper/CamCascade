@@ -55,7 +55,7 @@
 ## 🎨 Design & Behind the Scenes
 
 - **Figma Design**: [View Design](https://www.figma.com/design/6xKXN2DvaOqtFVOFGPazSi/CamCascade?node-id=0-1&t=RYrjn5SftUaCkzLJ-1)
-- **Development Process**: ![Behind the Scenes](assets/img/cameraspherebts.png)
+- **Development Process**: ![Behind the Scenes](assets/img/camcascadebts.png)
 
 ---
 
@@ -91,7 +91,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/naveddeveloper/camcascade.git
+   git clone https://github.com/naveddeveloper/CamCascade.git
    ```
 
 ---
@@ -154,8 +154,8 @@ I'm the developer behind this project! You can check out more of my work here:
 If you have any suggestions, feel free to open an issue or contact me on [Instagram](https://www.instagram.com/naveddeveloper).
 
 ## Download the APK
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://drive.google.com/uc?id=1osj1S0apQewEC5WxfmYJCpm8-9mOf6L4&export=download)
 
-[![Download APK](https://drive.google.com/uc?id=1osj1S0apQewEC5WxfmYJCpm8-9mOf6L4&export=download)
 
 ## ⚖️ License
 
